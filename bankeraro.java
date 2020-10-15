@@ -95,8 +95,9 @@ public class bankeraro
 	 {
 	 	if(need[i][j]>avail[j])
 	 	{
-	 		
+	 	System.out.println(" before"+ct);	
 	 	ct1++;	
+			System.out.println(" After "+ct);
 	 	}
 	 }
 	 	
